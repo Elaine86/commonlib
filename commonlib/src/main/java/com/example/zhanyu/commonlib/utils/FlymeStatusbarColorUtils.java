@@ -1,4 +1,4 @@
-package com.example.zhanyu.commonlib.utils;
+package com.example.zhanyu.commonlib.Utils;
 
 import android.app.Activity;
 import android.os.Build;

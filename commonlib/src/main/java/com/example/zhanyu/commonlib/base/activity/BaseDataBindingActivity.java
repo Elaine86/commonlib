@@ -6,7 +6,7 @@ import android.os.Bundle;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.databinding.DataBindingUtil;
-import com.example.zhanyu.commonlib.Utils.BarUtils;
+import com.example.zhanyu.commonlib.utils.BarUtils;
 
 /**
  * Created by Administrator on 2018/7/8.

@@ -5,7 +5,7 @@ import android.os.Build;
 import android.os.Bundle;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
-import com.example.zhanyu.commonlib.Utils.BarUtils;
+import com.example.zhanyu.commonlib.utils.BarUtils;
 
 public abstract class BaseActivity extends AppCompatActivity {
     public abstract void initParams();

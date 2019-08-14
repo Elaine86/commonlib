@@ -9,7 +9,7 @@ import androidx.fragment.app.Fragment;
 import com.blankj.utilcode.constant.PermissionConstants;
 import com.blankj.utilcode.util.PermissionUtils;
 import com.example.zhanyu.commonlib.R;
-import com.example.zhanyu.commonlib.Utils.BarUtils;
+import com.example.zhanyu.commonlib.utils.BarUtils;
 import com.example.zhanyu.commonlib.base.activity.BaseActivity;
 import com.example.zhanyu.commonlib.image.commonutils.Utils;
 

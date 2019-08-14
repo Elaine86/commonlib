@@ -18,7 +18,7 @@ import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 import com.blankj.utilcode.util.SizeUtils;
 import com.example.zhanyu.commonlib.R;
-import com.example.zhanyu.commonlib.Utils.BarUtils;
+import com.example.zhanyu.commonlib.utils.BarUtils;
 import com.example.zhanyu.commonlib.base.activity.BaseActivity;
 import com.example.zhanyu.commonlib.image.bean.Photo;
 import com.example.zhanyu.commonlib.image.bean.PhotoDirectory;
